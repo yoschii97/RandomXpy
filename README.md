@@ -1,28 +1,14 @@
-# pyrx
+# RandomXpy
 
 A Python extension for getting RandomX hashes.
+It's just a renaming of the project pyrx by jtgrassie.
+Some own specific optimisations are possible
 
 ## Installation
 
 ```
-pip install git+https://github.com/jtgrassie/pyrx
+pip install git+https://github.com/yoschii97/RandomXpy
 ```
-
-## Usage
-
-See [tests/test.py](./tests/test.py).
-
-## Supporting the project
-
-XMR donations to:
-
-```
-451ytzQg1vUVkuAW73VsQ72G96FUjASi4WNQse3v8ALfjiR5vLzGQ2hMUdYhG38Fi15eJ5FJ1ZL4EV1SFVi228muGX4f3SV
-```
-
-![QR code](./qr-small.png)
-
-would be very much appreciated.
 
 ## License
 
