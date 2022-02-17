@@ -58,9 +58,9 @@ class CMakeBuild(build_ext):
 
 setup(
     name='RandomXpy',
-    version='0.0.4',
+    version='0.0.1',
     author='Jethro Grassie',
-    author_email='jtgrassie@users.noreply.github.com',
+    author_email='',
     description='Python RandomX hashing module',
     long_description='',
     ext_modules=[CMakeExtension('RandomXpy')],
