@@ -4,8 +4,6 @@ project(RandomXpx)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_compile_options(-std=c++11) # CMake 2.8.12 or newer
-
 add_subdirectory(external/pybind11)
 add_subdirectory(external/RandomX)
 include_directories(${RANDOMX_INCLUDE})
